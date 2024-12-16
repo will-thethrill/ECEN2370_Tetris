@@ -1,0 +1,13 @@
+# STM32CubeIDE files to ignore
+.metadata/
+Debug/
+Release/
+.settings/
+*.launch
+*.swp
+*.bin
+*.elf
+*.hex
+*.d
+*.map
+*.o
